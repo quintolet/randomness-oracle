@@ -1,7 +1,7 @@
 # Verifiable Randomness on the Internet Computer
 
 The [Internet Computer] offers unpredictable and tamper-proof secure randomness.
-But how do one prove that the randomness used in some computation actually comes from the system?
+But how does one prove that the randomness used in a computation actually comes from the system?
 
 The solution is to use a **Randomness Oracle**:
 - It supplies the same system secure randomness to the caller, and at the same time also keeps a record of them.
